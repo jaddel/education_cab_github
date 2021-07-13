@@ -39,6 +39,8 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 - [Generate SSH Keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [git Simply Explained](https://www.atlassian.com/de/git/tutorials)
 - [Pyhton Programing Guide](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
+- [Add existing project to git](https://gist.github.com/alexpchin/102854243cd066f8b88e)
+
 
 ### LMS CAB
 

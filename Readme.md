@@ -78,9 +78,10 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 #### Task 3 Machine Learning 
   - [Machine Learning Kaggle zeddee's Github](https://gist.github.com/zeddee/824cfa865bd2944057a49bf2fd6e4b65)
   - [Youtube: Keith Galli Machine Learning Tutorial](https://www.youtube.com/watch?v=M9Itm95JzL0)
-  - 
-
-
+  - Underfitting & Overfitting
+    - Overfitting: capturing spurious patterns that won't recur in the future, leading to less accurate predictions, or
+    - Underfitting: failing to capture relevant patterns, again leading to less accurate predictions.
+  - [Commonly used machine learning algorithms (this was very helpful for me)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 
 ## Usefully
 

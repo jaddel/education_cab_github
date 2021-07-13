@@ -81,7 +81,10 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
   - Underfitting & Overfitting
     - Overfitting: capturing spurious patterns that won't recur in the future, leading to less accurate predictions, or
     - Underfitting: failing to capture relevant patterns, again leading to less accurate predictions.
-  - [Commonly used machine learning algorithms (this was very helpful for me)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
+  - [Commonly used machine learning algorithms (this was very helpful for me)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)  
+    - Major focus on commonly used machine learning algorithms
+    - Algorithms covered- Linear regression, logistic regression, Naive Bayes, kNN, Random forest, etc.
+    - Learn both theory and implementation of these algorithms in R and python
 
 ## Usefully
 

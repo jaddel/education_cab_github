@@ -77,6 +77,7 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 
 #### Task 3 Machine Learning 
   - [Machine Learning Kaggle zeddee's Github](https://gist.github.com/zeddee/824cfa865bd2944057a49bf2fd6e4b65)
+  - [Youtube: Keith Galli Machine Learning Tutorial](https://www.youtube.com/watch?v=M9Itm95JzL0)
   - 
 
 

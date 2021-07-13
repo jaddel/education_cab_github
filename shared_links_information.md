@@ -17,6 +17,7 @@
  - [Tool: Chrome Reader View, Focus on the important stuff](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh?hl=de&)
  - [Variance, Standard Deviation, Coefficient of Variation](https://www.youtube.com/watch?v=wDAd_QHKoOg)
  - [Machine Learning: Why to set a "random_state"?](https://www.youtube.com/watch?v=WAdrXVnOTIM)
+ - [Youtube: Keith Galli Machine Learning Tutorial](https://www.youtube.com/watch?v=M9Itm95JzL0)
  - 
 
 ## Shared by Jost

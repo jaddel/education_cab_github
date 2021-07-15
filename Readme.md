@@ -43,7 +43,8 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 - [Generate SSH Keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [git Simply Explained](https://www.atlassian.com/de/git/tutorials)
 - [Add existing project to git](https://gist.github.com/alexpchin/102854243cd066f8b88e)
-
+- [Probability for Data Science & Machine Learning](https://www.youtube.com/watch?v=sEte4hXEgJ8)
+  
 ##### Markdown
 - [adam-p Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
   

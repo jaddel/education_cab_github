@@ -10,6 +10,10 @@ __Index__
       - [How to stay focused?](#how-to-stay-focused)
       - [Stuff I want do checkout?](#stuff-i-want-do-checkout)
       - [Gernal Links](#gernal-links)
+        - [Github](#github)
+        - [Markdown](#markdown)
+        - [Statistics](#statistics)
+        - [Pyhton](#pyhton)
     - [LMS CAB](#lms-cab)
     - [Sprint 2](#sprint-2)
       - [Task 1 Numpy & Pandas](#task-1-numpy--pandas)
@@ -32,14 +36,25 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 
 #### Gernal Links
 
+##### Github
 - [Github Guides](https://guides.github.com/)
-- [adam-p Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [.gitignore Cheatsheet](https://github.com/kenmueller/gitignore/blob/master/README.md)
 - [git Commands Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Generate SSH Keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [git Simply Explained](https://www.atlassian.com/de/git/tutorials)
-- [Pyhton Programing Guide](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
 - [Add existing project to git](https://gist.github.com/alexpchin/102854243cd066f8b88e)
+
+##### Markdown
+- [adam-p Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+  
+##### Statistics
+- [German Statistics Help](https://de.statista.com/)
+- [Youtube: Statistics for Data Science & Machine Learning](https://www.youtube.com/watch?v=tcusIOfI_GM)
+##### Pyhton
+- [Python quick help](https://www.programiz.com/python-programming)
+- [Python Programing Guide](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
+- [Youtube: Matplotlib ](https://www.youtube.com/watch?v=wB9C0Mz9gSo)
+- [Youtube: Seaborn](https://www.youtube.com/watch?v=6GUZXDef2U0)
 
 
 ### LMS CAB
@@ -142,7 +157,14 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
   ```
 - [VS Code Tipps and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
-  One of favourites is the multi line edititing feature: `alt+cmb+up/down` or `alt+click`
+  One of favorites is the multi line editing feature: `alt+cmb+up/down` or `alt+click`
+
+- Pandas: Add new column by defining the range on an existing column. 
+  ```
+  df.loc[df['Age'] > 70, 'Age_group'] = 'Adult'
+  df.loc[((df['Age'] < 30) & (df['Age'] > 10)), 'Age_group'] = 'Mid_age'
+  ```
+
 
 
 

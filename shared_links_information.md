@@ -18,7 +18,7 @@
  - [Variance, Standard Deviation, Coefficient of Variation](https://www.youtube.com/watch?v=wDAd_QHKoOg)
  - [Machine Learning: Why to set a "random_state"?](https://www.youtube.com/watch?v=WAdrXVnOTIM)
  - [Youtube: Keith Galli Machine Learning Tutorial](https://www.youtube.com/watch?v=M9Itm95JzL0)
- - 
+ - [Youtube Titanic Walk-Through by Ken Jee](https://www.youtube.com/watch?v=I3FBJdiExcg)
 
 ## Shared by Jost
 

@@ -58,8 +58,8 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 
 - [LMS CAB](https://lms.codeacademyberlin.com)
 - [Shared Information between Students & Mentors.](shared_links_information.md)
-- [LMS Assignment 1](assignment_1\module_1_assignment_1.md)
-- [LMS Assignment 2](assignment_2\module_1_assignment_2.md)
+- [LMS Assignment 1](assignment_1/module_1_assignment_1.md)
+- [LMS Assignment 2](assignment_2/module_1_assignment_2.md)
 
 
 

@@ -25,6 +25,7 @@ __Index__
 - A friend of mine itroduced this method to me: E.g 50min learning --> 10min break --> 50min learning --> and so on...  
 Everybody has to find his own rythm regarding the intervalls but 50/10 is a good value to start with. 
 - [Youtube: 4-Hour Study With Me [Muted Classical Piano Music + Fireplace]](https://www.youtube.com/watch?v=lq9bA39t30I)
+- [Youtube: Study at Hogwarts 50/10 Pomodoro (Thunder, Rain, Libary) ASMR](https://www.youtube.com/watch?v=7o5d868Gjf8&t=9951s)
 
 #### Stuff I want do checkout? 
 

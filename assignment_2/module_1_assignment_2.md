@@ -13,6 +13,21 @@ Have a quick grasp at the data.
 - Provide statistics about contribution of weather in bike demands.
 - Provide statistics about how traffic and pollution affect sales.
 
+### Targeting Road Map
+
+1. Number of trips / Station.
+2. Percentage of trips / member type.
+3. Percentage of trips / bike type.
+4. Number of trips / station pair (route)
+5. Compare the station capacity against the departure and arrival counts of each station. 
+6. Plot trips / station / day
+7. Plot trips / station / member
+8. Plot trips / member / day
+9. Create a flow map for all stations to get a better understanding of the bike circulation. 
+
+Current questions: Is the station capacity per day? 
+
+
 ## Task 2
 
 - Formulate some hypothesis and try to evaluate.

@@ -14,6 +14,8 @@ __Index__
         - [Markdown](#markdown)
         - [Statistics](#statistics)
         - [Pyhton](#pyhton)
+        - [Visualization](#visualization)
+        - [Multiple Topics](#multiple-topics)
     - [LMS CAB](#lms-cab)
   - [Usefully](#usefully)
 
@@ -53,6 +55,13 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 - [Python Programing Guide](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
 - [Youtube: Matplotlib ](https://www.youtube.com/watch?v=wB9C0Mz9gSo)
 - [Youtube: Seaborn](https://www.youtube.com/watch?v=6GUZXDef2U0)
+
+##### Visualization
+-[Python Graph Gallery](https://www.python-graph-gallery.com/)
+-[Directed or Undirected Network](https://www.python-graph-gallery.com/323-directed-or-undirected-network)
+
+##### Multiple Topics
+-[Study Machine Learning](https://studymachinelearning.com/)
 
 
 ### LMS CAB

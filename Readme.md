@@ -51,17 +51,18 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 - [German Statistics Help](https://de.statista.com/)
 - [Youtube: Statistics for Data Science & Machine Learning](https://www.youtube.com/watch?v=tcusIOfI_GM)
 ##### Pyhton
+
 - [Python quick help](https://www.programiz.com/python-programming)
 - [Python Programing Guide](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
 - [Youtube: Matplotlib ](https://www.youtube.com/watch?v=wB9C0Mz9gSo)
 - [Youtube: Seaborn](https://www.youtube.com/watch?v=6GUZXDef2U0)
 
 ##### Visualization
--[Python Graph Gallery](https://www.python-graph-gallery.com/)
--[Directed or Undirected Network](https://www.python-graph-gallery.com/323-directed-or-undirected-network)
+- [Python Graph Gallery](https://www.python-graph-gallery.com/)
+- [Directed or Undirected Network](https://www.python-graph-gallery.com/323-directed-or-undirected-network)
 
 ##### Multiple Topics
--[Study Machine Learning](https://studymachinelearning.com/)
+- [Study Machine Learning](https://studymachinelearning.com/)
 
 
 ### LMS CAB

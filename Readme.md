@@ -60,6 +60,7 @@ Everybody has to find his own rythm regarding the intervalls but 50/10 is a good
 ##### Visualization
 - [Python Graph Gallery](https://www.python-graph-gallery.com/)
 - [Directed or Undirected Network](https://www.python-graph-gallery.com/323-directed-or-undirected-network)
+- Force directed graph d3
 
 ##### Multiple Topics
 - [Study Machine Learning](https://studymachinelearning.com/)

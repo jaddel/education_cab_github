@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+assignment_2/sprint_6/sales_clean.csv filter=lfs diff=lfs merge=lfs -text

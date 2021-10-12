@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "local",
+            "database": "learn1",
+            "username": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "10.25.10.10",
+            "port": 3308,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "unraid",
+            "database": "amazon",
+            "username": "root"
+        }
+    ]
+}

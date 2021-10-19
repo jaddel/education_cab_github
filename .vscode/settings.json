@@ -9,9 +9,10 @@
             "port": 3308,
             "driver": "MySQL",
             "name": "cab_unraid",
-            "database": "amazon",
+            "database": "10DaySql",
             "username": "root",
             "password": "20Sjadsn#+"
         }
-    ]
+    ],
+    "jupyter.jupyterServerType": "local"
 }

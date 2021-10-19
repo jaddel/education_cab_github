@@ -23,5 +23,21 @@ GROUP BY week(invoice_date)
 ORDER BY Revenue DESC
 LIMIT 5;
 	
+SELECT monthname(invoice_date) AS Month, sum(price * Quantity) AS Revenue
+FROM sales
+GROUP BY monthname(invoice_date)
+ORDER BY Revenue DESC
+LIMIT 5;
+
+SELECT *, day(invoice_date) AS Day, sum(price * Quantity) AS Revenue
+FROM sales
+GROUP BY year(invoice_date)
+ORDER BY Revenue DESC
+LIMIT 5;
 
 
+SELECT YEAR(invoice_date) AS Year, product_type, ROUND(SUM(total_sale),2) AS sale
+FROM sales
+WHERE YEAR(invoice_date)= 2018 OR YEAR(invoice_date)= 2019
+GROUP BY YEAR(invoice_date), product_type
+ORDER BY YEAR(invoice_date) ASC;

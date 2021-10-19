@@ -1,4 +1,17 @@
 -- 1.1 Select the name and price of all products with a price larger than or equal to $180, and sort first by price (in descending order), and then by name (in ascending order).
+SELECT *
+FROM Products
+WHERE Price > 180
+ORDER BY Price DESC;
+
+SELECT *
+FROM Products
+WHERE Price > 180
+ORDER BY Name DESC;
+
+
+
+
 -- 1.2 Select the average price of each manufacturer's products, showing only the manufacturer's code.
 -- 1.3 Select the average price of each manufacturer's products, showing the manufacturer's name.
 -- 1.4 Select the names of manufacturer whose products have an average price larger than or equal to $150.
